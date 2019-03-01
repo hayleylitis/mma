@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<?php
+		$a=[0,2,4,6,8,10];
+		$nomes=["pedro","fi de jhon","thais","uma linha"];
+		$c=array("igarassu","abreu","paulista","olinda","recife","jaboatao","tao tao distante");
+	  ?>
+	  <ul>
+	  <?php for ($i=0; $i < sizeof($nomes) ; $i++): ?>
+	  	<li><></li>
+
+	  </ul>
+</body>
+</html>
